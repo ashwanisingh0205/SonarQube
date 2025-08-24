@@ -27,7 +27,7 @@
 		<url/>
 	</scm>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 		<sonar.host.url>http://13.203.80.72:9000/</sonar.host.url>
 		<sonar.login>root</sonar.login>
 		<sonar.password>root</sonar.password>
