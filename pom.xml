@@ -28,8 +28,9 @@
 	</scm>
 	<properties>
 	    <java.version>17</java.version>
-	    <sonar.host.url>http://13.203.93.241:9000</sonar.host.url>
-	    <sonar.login>e2ebfb074e2e0c0b371ad287886bf933ed6ddb50</sonar.login>
+	    <sonar.host.url>http://13.203.86.140:9000/</sonar.host.url>
+        <sonar.login>Apple@151717</sonar.login>
+        <sonar.password>Apple@151717</sonar.password>
      </properties>
 
 	<dependencies>
